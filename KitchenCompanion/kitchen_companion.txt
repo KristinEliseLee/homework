@@ -1,0 +1,6 @@
+apple
+eggs
+flour
+milk
+potato
+tomato
